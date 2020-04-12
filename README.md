@@ -8,7 +8,7 @@ Here is a request of the kind you can make to google:
 site:facebook "aide-soignante" "@gmail.com"
 ```
 ---------------------------------------------------------------------------------------------
-Un moyen simple d'accéder à des informations spécifiques sur le web est l'utilisation de la base de données Google. Cet outil peut être encore plus puissant lorsqu'il est utilisé avec une syntaxe particulière. Ce programme peut être considéré comme une preuve de concept (PoC) et peut être utilisé à différentes fins. Et n'oubliez jamais que le véritable pouvoir des dorks de Google réside dans l'association de plusieurs opérateurs avancés.
+> Un moyen simple d'accéder à des informations spécifiques sur le web est l'utilisation de la base de données Google. Cet outil peut être encore plus puissant lorsqu'il est utilisé avec une syntaxe particulière. Ce programme peut être considéré comme une preuve de concept (PoC) et peut être utilisé à différentes fins. Et n'oubliez jamais que le véritable pouvoir des dorks de Google réside dans l'association de plusieurs opérateurs avancés.
 ---------------------------------------------------------------------------------------------
 ### Use:
 ![](https://i.ibb.co/3SMSzrH/rf.gif)
